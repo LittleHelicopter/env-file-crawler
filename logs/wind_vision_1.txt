@@ -1,0 +1,225 @@
+2025-02-11 23:41:43,294 - INFO - 从 https://www.energy.gov/eere/wind/wind-vision-1 提取了 53 个链接（div_class=None）。
+2025-02-11 23:41:53,343 - INFO - 从 https://www.energy.gov/topics/tribal-energy-access 提取了 61 个链接（div_class=None）。
+2025-02-11 23:43:14,036 - INFO - 从 https://www.energy.gov/work-us-department-energy 提取了 64 个链接（div_class=None）。
+2025-02-11 23:44:28,508 - INFO - 从 https://www.osti.gov/ 提取了 10 个链接（div_class=None）。
+2025-02-11 23:44:47,760 - INFO - 从 https://www.energy.gov/nnsa/national-nuclear-security-administration 提取了 82 个链接（div_class=None）。
+2025-02-11 23:45:44,020 - INFO - 从 https://www.energy.gov/power-marketing-administrations 提取了 54 个链接（div_class=None）。
+2025-02-11 23:46:35,133 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-11 23:46:49,293 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-11 23:47:02,950 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-11 23:47:16,401 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-11 23:47:25,152 - INFO - 从 https://www.energy.gov/topics/supercomputing 提取了 59 个链接（div_class=None）。
+2025-02-11 23:48:15,983 - INFO - 从 https://www.energy.gov/save 提取了 56 个链接（div_class=None）。
+2025-02-11 23:48:55,600 - INFO - 从 https://www.energy.gov/topics/earth-systems-modeling 提取了 59 个链接（div_class=None）。
+2025-02-11 23:49:37,898 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-11 23:49:51,394 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-11 23:50:04,790 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-11 23:50:18,111 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-11 23:50:26,831 - INFO - 从 https://www.energy.gov/apprenticeships-workforce-development 提取了 66 个链接（div_class=None）。
+2025-02-11 23:51:19,917 - WARNING - Certificate did not match expected hostname: www.acc.gov. Certificate: {'subject': ((('countryName', 'US'),), (('stateOrProvinceName', 'WA'),), (('localityName', 'Redmond'),), (('organizationName', 'Microsoft Corporation'),), (('commonName', '*.azureedge.net'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'Microsoft Corporation'),), (('commonName', 'Microsoft Azure RSA TLS Issuing CA 07'),)), 'version': 3, 'serialNumber': '330149AC2AF7F1639F3DC51EE600000149AC2A', 'notBefore': 'Feb  9 20:36:32 2025 GMT', 'notAfter': 'Aug  8 20:36:32 2025 GMT', 'subjectAltName': (('DNS', '*.azureedge.net'), ('DNS', '*.media.microsoftstream.com'), ('DNS', '*.origin.mediaservices.windows.net'), ('DNS', '*.streaming.mediaservices.windows.net')), 'OCSP': ('http://oneocsp.microsoft.com/ocsp',), 'caIssuers': ('http://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20RSA%20TLS%20Issuing%20CA%2007%20-%20xsign.crt',), 'crlDistributionPoints': ('http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20RSA%20TLS%20Issuing%20CA%2007.crl',)}
+2025-02-11 23:51:31,114 - INFO - 从 https://www.energy.gov/eere/wind/wind-vision-1#chapter3 提取了 53 个链接（div_class=None）。
+2025-02-11 23:52:08,001 - INFO - 从 https://www.energy.gov/topics/commercial-implementation 提取了 59 个链接（div_class=None）。
+2025-02-11 23:52:54,365 - INFO - 从 https://www.energy.gov/topics/quantum-information-science 提取了 60 个链接（div_class=None）。
+2025-02-11 23:53:43,290 - INFO - 从 https://www.energy.gov/topics/energy-workforce 提取了 62 个链接（div_class=None）。
+2025-02-11 23:54:19,986 - INFO - 从 https://www.energy.gov/lm/history 提取了 74 个链接（div_class=None）。
+2025-02-11 23:55:06,362 - INFO - 从 https://www.energy.gov/eere/wind 提取了 100 个链接（div_class=None）。
+2025-02-11 23:56:18,014 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-11 23:56:31,245 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-11 23:56:40,634 - INFO - 从 https://www.energy.gov/topics/international-market-development 提取了 58 个链接（div_class=None）。
+2025-02-11 23:57:20,828 - INFO - 从 https://www.energy.gov/eere/wind/wind-vision-1#main-content 提取了 53 个链接（div_class=None）。
+2025-02-11 23:57:53,657 - INFO - 从 https://www.energy.gov/design 提取了 48 个链接（div_class=None）。
+2025-02-11 23:58:27,178 - INFO - 从 https://www.energy.gov/energysaver/energy-saver 提取了 84 个链接（div_class=None）。
+2025-02-11 23:59:13,069 - INFO - 从 https://www.energy.gov/topics/energy-security 提取了 61 个链接（div_class=None）。
+2025-02-11 23:59:55,246 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 00:00:08,514 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 00:00:22,008 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 00:00:30,764 - INFO - 从 https://www.energy.gov/topics/environmental-and-legacy-management 提取了 65 个链接（div_class=None）。
+2025-02-12 00:01:25,951 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 00:01:39,339 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 00:01:53,479 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 00:02:06,759 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 00:02:21,121 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 00:02:34,481 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 00:02:44,166 - INFO - 从 https://www.energy.gov/eere/wind/wind-vision-1#chapter2 提取了 53 个链接（div_class=None）。
+2025-02-12 00:03:23,245 - INFO - 从 https://www.energy.gov/topics/american-manufacturing 提取了 69 个链接（div_class=None）。
+2025-02-12 00:04:09,756 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 00:04:23,026 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 00:04:36,577 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 00:04:49,835 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 00:05:10,257 - INFO - 从 https://nvcl.energy.gov/ 提取了 53 个链接（div_class=None）。
+2025-02-12 00:06:44,531 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 00:06:57,886 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 00:07:11,612 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 00:07:26,176 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 00:07:40,301 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 13:33:55,095 - INFO - 从 https://www.energy.gov/eere/wind/wind-vision-1 提取了 53 个链接（div_class=None）。
+2025-02-12 13:34:04,255 - INFO - 从 https://www.energy.gov/topics/commercial-implementation 提取了 59 个链接（div_class=None）。
+2025-02-12 13:34:50,739 - INFO - 从 https://www.energy.gov/eere/wind/wind-vision-1#main-content 提取了 53 个链接（div_class=None）。
+2025-02-12 13:35:23,340 - INFO - 从 https://www.energy.gov/topics/energy-workforce 提取了 62 个链接（div_class=None）。
+2025-02-12 13:36:07,235 - INFO - 从 https://www.energy.gov/save 提取了 56 个链接（div_class=None）。
+2025-02-12 13:36:42,231 - INFO - 从 https://www.energy.gov/topics/national-science-bowl 提取了 58 个链接（div_class=None）。
+2025-02-12 13:37:44,849 - INFO - 从 https://www.energy.gov/power-marketing-administrations 提取了 54 个链接（div_class=None）。
+2025-02-12 13:38:52,798 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 13:39:06,784 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 13:39:20,395 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 13:39:33,781 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 13:39:47,445 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 13:39:56,719 - INFO - 从 https://www.energy.gov/topics/tribal-energy-access 提取了 61 个链接（div_class=None）。
+2025-02-12 13:41:09,056 - INFO - 从 https://www.energy.gov/topics/environmental-and-legacy-management 提取了 65 个链接（div_class=None）。
+2025-02-12 13:42:29,841 - INFO - 从 https://www.energy.gov/eere/wind/wind-vision-1#chapter4 提取了 53 个链接（div_class=None）。
+2025-02-12 13:43:24,576 - INFO - 从 https://www.energy.gov/topics/puerto-rico-grid-resilience-and-modernization 提取了 70 个链接（div_class=None）。
+2025-02-12 13:44:40,866 - INFO - 从 https://www.energy.gov/topics/arctic-cooperation 提取了 63 个链接（div_class=None）。
+2025-02-12 13:46:06,165 - INFO - 从 https://nvcl.energy.gov/ 提取了 53 个链接（div_class=None）。
+2025-02-12 13:47:40,696 - INFO - 从 https://www.energy.gov/eere/wind/wind-vision-1#download 提取了 53 个链接（div_class=None）。
+2025-02-12 13:48:35,680 - INFO - 从 https://www.energy.gov/topics/energy-earthshots-initiative 提取了 84 个链接（div_class=None）。
+2025-02-12 13:50:11,692 - INFO - 从 https://www.osti.gov/ 提取了 10 个链接（div_class=None）。
+2025-02-12 13:50:32,932 - INFO - 从 https://www.energy.gov/topics/american-manufacturing 提取了 69 个链接（div_class=None）。
+2025-02-12 13:51:50,475 - INFO - 从 https://www.energy.gov/topics/biotechnology 提取了 70 个链接（div_class=None）。
+2025-02-12 13:53:03,956 - INFO - 从 https://www.energy.gov/topics 提取了 80 个链接（div_class=None）。
+2025-02-12 13:54:25,473 - INFO - 从 https://www.energy.gov/eere/wind/wind-vision-1#chapter3 提取了 53 个链接（div_class=None）。
+2025-02-12 13:55:23,402 - INFO - 从 https://www.energy.gov/topics/grid-deployment-and-transmission 提取了 65 个链接（div_class=None）。
+2025-02-12 13:56:30,311 - INFO - 从 https://www.energy.gov/our-leadership-offices 提取了 96 个链接（div_class=None）。
+2025-02-12 13:58:06,735 - INFO - 从 https://www.energy.gov/topics/advancing-innovation-technology-transitions-and-early-investments 提取了 64 个链接（div_class=None）。
+2025-02-12 13:59:19,833 - INFO - 从 https://www.energy.gov/topics/cancer-research 提取了 60 个链接（div_class=None）。
+2025-02-12 14:00:32,716 - INFO - 从 https://www.energy.gov/topics/space-exploration-and-universe 提取了 60 个链接（div_class=None）。
+2025-02-12 14:01:38,363 - INFO - 从 https://www.energy.gov/topics/artificial-intelligence 提取了 75 个链接（div_class=None）。
+2025-02-12 14:02:54,753 - INFO - 从 https://www.energy.gov/topics/fusion-energy 提取了 61 个链接（div_class=None）。
+2025-02-12 14:04:00,284 - INFO - 从 https://www.energy.gov/topics/extreme-weather-resiliency 提取了 62 个链接（div_class=None）。
+2025-02-12 14:05:03,538 - INFO - 从 https://www.energy.gov/us-department-energy-national-laboratories 提取了 73 个链接（div_class=None）。
+2025-02-12 14:06:16,528 - INFO - 从 https://www.energy.gov/newsroom 提取了 65 个链接（div_class=None）。
+2025-02-12 14:07:24,557 - INFO - 从 https://www.energy.gov/topics/international-market-development 提取了 58 个链接（div_class=None）。
+2025-02-12 14:08:35,816 - INFO - 从 https://www.energy.gov/eere/wind/wind-vision-1#chapter1 提取了 53 个链接（div_class=None）。
+2025-02-12 14:09:33,694 - INFO - 从 https://www.energy.gov/topics/nuclear-security 提取了 61 个链接（div_class=None）。
+2025-02-12 14:10:39,060 - INFO - 从 https://www.energy.gov/eere/wind/wind-vision-1#chapter2 提取了 53 个链接（div_class=None）。
+2025-02-12 14:11:34,323 - INFO - 从 https://www.energy.gov/apprenticeships-workforce-development 提取了 66 个链接（div_class=None）。
+2025-02-12 14:11:46,249 - WARNING - Certificate did not match expected hostname: www.acc.gov. Certificate: {'subject': ((('countryName', 'US'),), (('stateOrProvinceName', 'WA'),), (('localityName', 'Redmond'),), (('organizationName', 'Microsoft Corporation'),), (('commonName', '*.azureedge.net'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'Microsoft Corporation'),), (('commonName', 'Microsoft Azure RSA TLS Issuing CA 04'),)), 'version': 3, 'serialNumber': '330182F0C508084CF4688786E300000182F0C5', 'notBefore': 'Jan 18 14:39:25 2025 GMT', 'notAfter': 'Jul 17 14:39:25 2025 GMT', 'subjectAltName': (('DNS', '*.azureedge.net'), ('DNS', '*.media.microsoftstream.com'), ('DNS', '*.origin.mediaservices.windows.net'), ('DNS', '*.streaming.mediaservices.windows.net')), 'OCSP': ('http://oneocsp.microsoft.com/ocsp',), 'caIssuers': ('http://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20RSA%20TLS%20Issuing%20CA%2004%20-%20xsign.crt',), 'crlDistributionPoints': ('http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20RSA%20TLS%20Issuing%20CA%2004.crl',)}
+2025-02-12 14:12:52,063 - INFO - 从 https://www.energy.gov/topics/research-technology-and-economic-security 提取了 66 个链接（div_class=None）。
+2025-02-12 14:14:02,852 - INFO - 从 https://www.energy.gov/work-us-department-energy 提取了 64 个链接（div_class=None）。
+2025-02-12 14:15:10,463 - INFO - 从 https://www.energy.gov/energysaver/energy-saver 提取了 84 个链接（div_class=None）。
+2025-02-12 14:16:40,000 - INFO - 从 https://www.energy.gov/eere/wind 提取了 100 个链接（div_class=None）。
+2025-02-12 14:18:47,688 - INFO - 从 https://www.energy.gov/topics/supercomputing 提取了 59 个链接（div_class=None）。
+2025-02-12 14:19:48,556 - INFO - 从 https://www.energy.gov/topics/quantum-information-science 提取了 60 个链接（div_class=None）。
+2025-02-12 14:20:51,668 - INFO - 从 https://www.energy.gov/topics/energy-security 提取了 61 个链接（div_class=None）。
+2025-02-12 14:21:55,572 - INFO - 从 https://www.energy.gov/topics/cybersecurity 提取了 52 个链接（div_class=None）。
+2025-02-12 14:22:52,424 - INFO - 从 https://www.energy.gov/science/department-energy-nobel-laureates 提取了 47 个链接（div_class=None）。
+2025-02-12 14:23:45,957 - INFO - 从 https://www.energy.gov/lm/history 提取了 74 个链接（div_class=None）。
+2025-02-12 14:25:11,795 - INFO - 从 https://www.energy.gov/nnsa/national-nuclear-security-administration 提取了 82 个链接（div_class=None）。
+2025-02-12 14:26:37,935 - INFO - 从 https://www.energy.gov/digital-engagement-and-media 提取了 56 个链接（div_class=None）。
+2025-02-12 14:27:43,003 - INFO - 从 https://www.energy.gov/internships-fellowships 提取了 66 个链接（div_class=None）。
+2025-02-12 22:54:07,895 - INFO - 从 https://www.energy.gov/eere/wind/wind-vision-1 提取了 53 个链接（div_class=None）。
+2025-02-12 22:54:23,325 - INFO - 从 https://www.osti.gov/ 提取了 10 个链接（div_class=None）。
+2025-02-12 22:54:48,356 - INFO - 从 https://www.energy.gov/topics/arctic-cooperation 提取了 63 个链接（div_class=None）。
+2025-02-12 22:56:12,610 - INFO - 从 https://www.energy.gov/topics/supercomputing 提取了 59 个链接（div_class=None）。
+2025-02-12 22:57:23,952 - INFO - 从 https://nvcl.energy.gov/ 提取了 53 个链接（div_class=None）。
+2025-02-12 22:59:02,482 - INFO - 从 https://www.energy.gov/eere/wind/wind-vision-1#chapter1 提取了 53 个链接（div_class=None）。
+2025-02-12 23:00:13,690 - INFO - 从 https://www.energy.gov/lm/history 提取了 74 个链接（div_class=None）。
+2025-02-12 23:02:06,380 - INFO - 从 https://www.energy.gov/internships-fellowships 提取了 66 个链接（div_class=None）。
+2025-02-12 23:03:16,010 - INFO - 从 https://www.energy.gov/us-department-energy-national-laboratories 提取了 73 个链接（div_class=None）。
+2025-02-12 23:04:22,214 - INFO - 从 https://www.energy.gov/save 提取了 56 个链接（div_class=None）。
+2025-02-12 23:05:35,228 - INFO - 从 https://www.energy.gov/our-leadership-offices 提取了 96 个链接（div_class=None）。
+2025-02-12 23:07:19,477 - INFO - 从 https://www.energy.gov/topics/fusion-energy 提取了 61 个链接（div_class=None）。
+2025-02-12 23:08:34,838 - INFO - 从 https://www.energy.gov/work-us-department-energy 提取了 64 个链接（div_class=None）。
+2025-02-12 23:09:51,989 - INFO - 从 https://www.energy.gov/topics/grid-deployment-and-transmission 提取了 65 个链接（div_class=None）。
+2025-02-12 23:10:47,870 - INFO - 从 https://www.energy.gov/eere/wind/wind-vision-1#chapter2 提取了 53 个链接（div_class=None）。
+2025-02-12 23:11:42,804 - INFO - 从 https://www.energy.gov/topics/american-manufacturing 提取了 69 个链接（div_class=None）。
+2025-02-12 23:12:36,150 - INFO - 从 https://www.energy.gov/eere/wind/wind-vision-1#chapter3 提取了 53 个链接（div_class=None）。
+2025-02-12 23:13:33,075 - INFO - 从 https://www.energy.gov/science/department-energy-nobel-laureates 提取了 47 个链接（div_class=None）。
+2025-02-12 23:14:16,573 - INFO - 从 https://www.energy.gov/topics/energy-security 提取了 61 个链接（div_class=None）。
+2025-02-12 23:15:09,794 - INFO - 从 https://www.energy.gov/topics 提取了 80 个链接（div_class=None）。
+2025-02-12 23:16:16,451 - INFO - 从 https://www.energy.gov/design 提取了 48 个链接（div_class=None）。
+2025-02-12 23:17:17,074 - INFO - 从 https://www.energy.gov/topics/advancing-innovation-technology-transitions-and-early-investments 提取了 64 个链接（div_class=None）。
+2025-02-12 23:18:39,974 - INFO - 从 https://www.energy.gov/eere/wind/wind-vision-1#chapter4 提取了 53 个链接（div_class=None）。
+2025-02-12 23:19:42,992 - INFO - 从 https://www.energy.gov/topics/cancer-research 提取了 60 个链接（div_class=None）。
+2025-02-12 23:21:07,486 - INFO - 从 https://www.energy.gov/topics/artificial-intelligence 提取了 75 个链接（div_class=None）。
+2025-02-12 23:22:40,146 - INFO - 从 https://www.energy.gov/topics/research-technology-and-economic-security 提取了 66 个链接（div_class=None）。
+2025-02-12 23:24:06,821 - INFO - 从 https://www.energy.gov/power-marketing-administrations 提取了 54 个链接（div_class=None）。
+2025-02-12 23:25:33,767 - INFO - 从 https://www.energy.gov/ 提取了 54 个链接（div_class=None）。
+2025-02-12 23:26:44,241 - INFO - 从 https://www.energy.gov/eere/wind/wind-vision-1#main-content 提取了 53 个链接（div_class=None）。
+2025-02-12 23:27:53,293 - INFO - 从 https://www.energy.gov/topics/energy-workforce 提取了 62 个链接（div_class=None）。
+2025-02-12 23:29:12,480 - INFO - 从 https://www.energy.gov/topics/quantum-information-science 提取了 60 个链接（div_class=None）。
+2025-02-12 23:30:29,943 - INFO - 从 https://www.energy.gov/us-energy-information-administration-eia 提取了 50 个链接（div_class=None）。
+2025-02-12 23:32:53,172 - INFO - 从 https://www.energy.gov/newsroom 提取了 65 个链接（div_class=None）。
+2025-02-12 23:34:31,100 - INFO - 从 https://www.energy.gov/eere/wind 提取了 100 个链接（div_class=None）。
+2025-02-12 23:36:03,479 - INFO - 从 https://www.energy.gov/topics/extreme-weather-resiliency 提取了 62 个链接（div_class=None）。
+2025-02-12 23:36:55,811 - ERROR - 爬取过程中发生错误: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E7E102F5+28725]
+	(No symbol) [0x00007FF6E7D72AE0]
+	(No symbol) [0x00007FF6E7C0510A]
+	(No symbol) [0x00007FF6E7BF1C2C]
+	(No symbol) [0x00007FF6E7BF1AF0]
+	(No symbol) [0x00007FF6E7C07B21]
+	(No symbol) [0x00007FF6E7C9FA7A]
+	(No symbol) [0x00007FF6E7C7FD53]
+	(No symbol) [0x00007FF6E7C4A0E3]
+	(No symbol) [0x00007FF6E7C4B471]
+	GetHandleVerifier [0x00007FF6E813F30D+3366989]
+	GetHandleVerifier [0x00007FF6E81512F0+3440688]
+	GetHandleVerifier [0x00007FF6E81478FD+3401277]
+	GetHandleVerifier [0x00007FF6E7EDAAAB+858091]
+	(No symbol) [0x00007FF6E7D7E74F]
+	(No symbol) [0x00007FF6E7D7A304]
+	(No symbol) [0x00007FF6E7D7A49D]
+	(No symbol) [0x00007FF6E7D68B69]
+	BaseThreadInitThunk [0x00007FFCEF14259D+29]
+	RtlUserThreadStart [0x00007FFCEFF0AF38+40]
+
+2025-02-12 23:42:48,421 - INFO - 从 https://www.energy.gov/apprenticeships-workforce-development 提取了 66 个链接（div_class=None）。
+2025-02-12 23:42:57,476 - WARNING - Certificate did not match expected hostname: www.acc.gov. Certificate: {'subject': ((('countryName', 'US'),), (('stateOrProvinceName', 'WA'),), (('localityName', 'Redmond'),), (('organizationName', 'Microsoft Corporation'),), (('commonName', '*.azureedge.net'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'Microsoft Corporation'),), (('commonName', 'Microsoft Azure RSA TLS Issuing CA 07'),)), 'version': 3, 'serialNumber': '330149AC2AF7F1639F3DC51EE600000149AC2A', 'notBefore': 'Feb  9 20:36:32 2025 GMT', 'notAfter': 'Aug  8 20:36:32 2025 GMT', 'subjectAltName': (('DNS', '*.azureedge.net'), ('DNS', '*.media.microsoftstream.com'), ('DNS', '*.origin.mediaservices.windows.net'), ('DNS', '*.streaming.mediaservices.windows.net')), 'OCSP': ('http://oneocsp.microsoft.com/ocsp',), 'caIssuers': ('http://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20RSA%20TLS%20Issuing%20CA%2007%20-%20xsign.crt',), 'crlDistributionPoints': ('http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20RSA%20TLS%20Issuing%20CA%2007.crl',)}
+2025-02-12 23:43:39,925 - INFO - 从 https://www.energy.gov/topics/puerto-rico-grid-resilience-and-modernization 提取了 70 个链接（div_class=None）。
+2025-02-12 23:44:37,441 - INFO - 从 https://www.energy.gov/topics/cybersecurity 提取了 52 个链接（div_class=None）。
+2025-02-12 23:45:23,764 - INFO - 从 https://www.energy.gov/digital-engagement-and-media 提取了 56 个链接（div_class=None）。
+2025-02-12 23:46:15,997 - INFO - 从 https://www.energy.gov/topics/environmental-and-legacy-management 提取了 65 个链接（div_class=None）。
+2025-02-12 23:47:04,105 - INFO - 从 https://www.energy.gov/topics/international-market-development 提取了 58 个链接（div_class=None）。
+2025-02-12 23:47:49,335 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 23:48:02,873 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 23:48:16,214 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 23:48:29,669 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 23:48:43,096 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 23:48:56,537 - ERROR - 爬取过程中发生错误: Message: 
+
+2025-02-12 23:49:05,514 - INFO - 从 https://www.energy.gov/topics/energy-earthshots-initiative 提取了 84 个链接（div_class=None）。
+2025-02-12 23:50:08,948 - INFO - 从 https://www.energy.gov/topics/earth-systems-modeling 提取了 59 个链接（div_class=None）。
+2025-02-12 23:50:57,398 - INFO - 从 https://www.energy.gov/topics/space-exploration-and-universe 提取了 60 个链接（div_class=None）。
+2025-02-12 23:51:47,056 - INFO - 从 https://www.energy.gov/energysaver/energy-saver 提取了 84 个链接（div_class=None）。
+2025-02-12 23:52:40,304 - INFO - 从 https://www.energy.gov/topics/nuclear-security 提取了 61 个链接（div_class=None）。

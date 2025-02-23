@@ -1,0 +1,7 @@
+2025-02-13 22:50:44,435 - INFO - 从 https://windexchange.energy.gov/projects/community-benefit-agreements 提取了 64 个链接（div_class=None）。
+2025-02-13 22:50:56,351 - INFO - 从 https://windexchange.energy.gov/projects/economics 提取了 44 个链接（div_class=None）。
+2025-02-13 22:52:10,066 - INFO - 从 https://windexchange.energy.gov/ 提取了 44 个链接（div_class=None）。
+2025-02-13 22:53:08,212 - INFO - 从 https://windexchange.energy.gov/projects/community-benefit-agreements?sort_by=additional+form 提取了 84 个链接（div_class=None）。
+2025-02-13 23:09:54,620 - INFO - 从 https://windexchange.energy.gov/projects/community-benefit-agreements?sort_by=year+built 提取了 66 个链接（div_class=None）。
+2025-02-13 23:11:16,617 - INFO - 从 https://windexchange.energy.gov/projects/community-benefit-agreements?id=106 提取了 48 个链接（div_class=None）。
+2025-02-13 23:12:36,169 - INFO - 从 https://windexchange.energy.gov/projects/community-benefit-agreements?sort_by=generating+capacity 提取了 70 个链接（div_class=None）。

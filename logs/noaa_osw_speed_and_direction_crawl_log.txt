@@ -1,0 +1,62 @@
+2025-02-05 15:27:12,734 - INFO - 开始爬取: https://www.fisheries.noaa.gov/inport/item/66216
+2025-02-05 15:27:12,736 - INFO - 访问: https://www.fisheries.noaa.gov/inport/item/66216 (深度: 0)
+2025-02-05 15:27:13,135 - INFO - 从页面 https://www.fisheries.noaa.gov/inport/item/66216 提取了 0 个链接。
+2025-02-05 15:27:13,437 - INFO - 保存 HTML: ../data/noaa_osw_speed_and_direction/fisheries.noaa.gov_inport_item_66216\html\https___www.fisheries.noaa.gov_inport_item_66216.html
+2025-02-05 15:27:13,437 - INFO - 抓取完成，共访问 1 个页面。
+2025-02-05 15:29:00,232 - INFO - 开始爬取: https://www.fisheries.noaa.gov/inport/item/66216
+2025-02-05 15:29:00,233 - INFO - 访问: https://www.fisheries.noaa.gov/inport/item/66216 (深度: 0)
+2025-02-05 15:29:00,572 - INFO - 从页面 https://www.fisheries.noaa.gov/inport/item/66216 提取了 2 个链接。
+2025-02-05 15:29:00,880 - INFO - 保存 HTML: ../data/noaa_osw_speed_and_direction/fisheries.noaa.gov_inport_item_66216\html\https___www.fisheries.noaa.gov_inport_item_66216.html
+2025-02-05 15:29:00,880 - INFO - 抓取完成，共访问 1 个页面。
+2025-02-05 15:29:47,565 - INFO - 开始爬取: https://www.fisheries.noaa.gov/inport/item/66216
+2025-02-05 15:29:47,566 - INFO - 访问: https://www.fisheries.noaa.gov/inport/item/66216 (深度: 0)
+2025-02-05 15:29:47,991 - INFO - 从页面 https://www.fisheries.noaa.gov/inport/item/66216 提取了 2 个链接。
+2025-02-05 15:29:48,371 - INFO - 保存 HTML: ../data/noaa_osw_speed_and_direction/fisheries.noaa.gov_inport_item_66216\html\https___www.fisheries.noaa.gov_inport_item_66216.html
+2025-02-05 15:29:48,371 - INFO - 抓取完成，共访问 1 个页面。
+2025-02-05 15:32:13,944 - INFO - 开始爬取: https://www.fisheries.noaa.gov/inport/item/66216
+2025-02-05 15:32:13,945 - INFO - 访问: https://www.fisheries.noaa.gov/inport/item/66216 (深度: -1)
+2025-02-05 15:32:14,323 - INFO - 从页面 https://www.fisheries.noaa.gov/inport/item/66216 提取了 2 个链接。
+2025-02-05 15:32:14,716 - INFO - 保存 HTML: ../data/noaa_osw_speed_and_direction/fisheries.noaa.gov_inport_item_66216\html\https___www.fisheries.noaa.gov_inport_item_66216.html
+2025-02-05 15:32:14,717 - INFO - 访问: https://www.fisheries.noaa.gov/inport/item/66216/citation (深度: 0)
+2025-02-05 15:32:15,044 - INFO - 从页面 https://www.fisheries.noaa.gov/inport/item/66216/citation 提取了 0 个链接。
+2025-02-05 15:32:15,319 - INFO - 保存 HTML: ../data/noaa_osw_speed_and_direction/fisheries.noaa.gov_inport_item_66216\html\https___www.fisheries.noaa.gov_inport_item_66216_citation.html
+2025-02-05 15:32:15,319 - INFO - 访问: https://www.fisheries.noaa.gov/inport/item/66217 (深度: 0)
+2025-02-05 15:32:15,684 - INFO - 从页面 https://www.fisheries.noaa.gov/inport/item/66217 提取了 31 个链接。
+2025-02-05 15:32:16,061 - INFO - 保存 HTML: ../data/noaa_osw_speed_and_direction/fisheries.noaa.gov_inport_item_66216\html\https___www.fisheries.noaa.gov_inport_item_66217.html
+2025-02-05 15:32:16,061 - INFO - 抓取完成，共访问 3 个页面。
+2025-02-05 15:32:53,268 - INFO - 开始爬取: https://www.fisheries.noaa.gov/inport/item/66216
+2025-02-05 15:32:53,269 - INFO - 访问: https://www.fisheries.noaa.gov/inport/item/66216 (深度: -1)
+2025-02-05 15:32:53,628 - INFO - 从页面 https://www.fisheries.noaa.gov/inport/item/66216 提取了 2 个链接。
+2025-02-05 15:32:53,942 - INFO - 保存 HTML: ../data/noaa_osw_speed_and_direction/fisheries.noaa.gov_inport_item_66216\html\https___www.fisheries.noaa.gov_inport_item_66216.html
+2025-02-05 15:32:53,942 - INFO - 访问: https://www.fisheries.noaa.gov/inport/item/66217 (深度: 0)
+2025-02-05 15:32:54,329 - INFO - 从页面 https://www.fisheries.noaa.gov/inport/item/66217 提取了 31 个链接。
+2025-02-05 15:32:54,652 - INFO - 保存 HTML: ../data/noaa_osw_speed_and_direction/fisheries.noaa.gov_inport_item_66216\html\https___www.fisheries.noaa.gov_inport_item_66217.html
+2025-02-05 15:32:54,653 - INFO - 访问: https://www.fisheries.noaa.gov/inport/item/66216/citation (深度: 0)
+2025-02-05 15:32:54,966 - INFO - 从页面 https://www.fisheries.noaa.gov/inport/item/66216/citation 提取了 0 个链接。
+2025-02-05 15:32:55,202 - INFO - 保存 HTML: ../data/noaa_osw_speed_and_direction/fisheries.noaa.gov_inport_item_66216\html\https___www.fisheries.noaa.gov_inport_item_66216_citation.html
+2025-02-05 15:32:55,202 - INFO - 抓取完成，共访问 3 个页面。
+2025-02-05 15:34:05,857 - INFO - 开始爬取: https://www.fisheries.noaa.gov/inport/item/66216
+2025-02-05 15:34:05,858 - INFO - 访问: https://www.fisheries.noaa.gov/inport/item/66216 (深度: -1)
+2025-02-05 15:34:06,216 - INFO - 从页面 https://www.fisheries.noaa.gov/inport/item/66216 提取了 2 个链接。
+2025-02-05 15:34:06,543 - INFO - 保存 HTML: ../data/noaa_osw_speed_and_direction/fisheries.noaa.gov_inport_item_66216\html\https___www.fisheries.noaa.gov_inport_item_66216.html
+2025-02-05 15:34:06,543 - INFO - 访问: https://www.fisheries.noaa.gov/inport/item/66216/citation (深度: 0)
+2025-02-05 15:34:06,798 - INFO - 从页面 https://www.fisheries.noaa.gov/inport/item/66216/citation 提取了 0 个链接。
+2025-02-05 15:34:07,077 - INFO - 保存 HTML: ../data/noaa_osw_speed_and_direction/fisheries.noaa.gov_inport_item_66216\html\https___www.fisheries.noaa.gov_inport_item_66216_citation.html
+2025-02-05 15:34:07,077 - INFO - 访问: https://www.fisheries.noaa.gov/inport/item/66217 (深度: 0)
+2025-02-05 15:34:07,407 - INFO - 从页面 https://www.fisheries.noaa.gov/inport/item/66217 提取了 31 个链接。
+2025-02-05 15:34:07,720 - INFO - 保存 HTML: ../data/noaa_osw_speed_and_direction/fisheries.noaa.gov_inport_item_66216\html\https___www.fisheries.noaa.gov_inport_item_66217.html
+2025-02-05 15:34:07,721 - INFO - 抓取完成，共访问 3 个页面。
+2025-02-05 15:37:06,907 - INFO - 开始爬取: https://www.fisheries.noaa.gov/inport/item/66216
+2025-02-05 15:37:06,908 - INFO - 访问: https://www.fisheries.noaa.gov/inport/item/66216 (深度: -1)
+2025-02-05 15:37:07,230 - INFO - 从页面 https://www.fisheries.noaa.gov/inport/item/66216 提取了 2 个链接。
+2025-02-05 15:37:07,565 - INFO - 保存 HTML: ../data/noaa_osw_speed_and_direction/fisheries.noaa.gov_inport_item_66216\html\https___www.fisheries.noaa.gov_inport_item_66216.html
+2025-02-05 15:37:07,565 - WARNING - 跳过未知文件类型: https://www.fisheries.noaa.gov/inport/item/66216 (text/html;charset=UTF-8)
+2025-02-05 15:37:07,566 - INFO - 访问: https://www.fisheries.noaa.gov/inport/item/66216/citation (深度: 0)
+2025-02-05 15:37:07,822 - INFO - 从页面 https://www.fisheries.noaa.gov/inport/item/66216/citation 提取了 0 个链接。
+2025-02-05 15:37:08,085 - INFO - 保存 HTML: ../data/noaa_osw_speed_and_direction/fisheries.noaa.gov_inport_item_66216\html\https___www.fisheries.noaa.gov_inport_item_66216_citation.html
+2025-02-05 15:37:08,085 - WARNING - 跳过未知文件类型: https://www.fisheries.noaa.gov/inport/item/66216/citation (text/html;charset=UTF-8)
+2025-02-05 15:37:08,086 - INFO - 访问: https://www.fisheries.noaa.gov/inport/item/66217 (深度: 0)
+2025-02-05 15:37:08,442 - INFO - 从页面 https://www.fisheries.noaa.gov/inport/item/66217 提取了 31 个链接。
+2025-02-05 15:37:08,756 - INFO - 保存 HTML: ../data/noaa_osw_speed_and_direction/fisheries.noaa.gov_inport_item_66216\html\https___www.fisheries.noaa.gov_inport_item_66217.html
+2025-02-05 15:37:08,756 - WARNING - 跳过未知文件类型: https://www.fisheries.noaa.gov/inport/item/66217 (text/html;charset=UTF-8)
+2025-02-05 15:37:08,756 - INFO - 抓取完成，共访问 3 个页面。

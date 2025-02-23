@@ -1,0 +1,1 @@
+print(len("E:\Research\OffshoreWind\Scrape\my_crawler_project\data\\news_release_noaa_and_boem_announce_interagency_collaboration_to_advance_offshore_wind_energy\html\\news_release_noaa_and_boem_announce_interagency_collaboration_to_advance_offshore_wind_energy.html"))
